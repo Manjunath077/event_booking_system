@@ -1,0 +1,504 @@
+{
+    "events":[
+        {
+          "id": 1,
+          "title": "Live Comedy Show",
+          "description": "An evening full of live music performances.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 47,
+          "price": 991
+        },
+        {
+          "id": 2,
+          "title": "Funny Bone",
+          "description": "Get ready for an energetic sports event!",
+          "image":"https://thumbs.dreamstime.com/b/poster-template-design-sport-event-background-abstract-dynamic-shapes-sports-competition-championship-207522607.jpg",
+          "category": "Sports",
+          "date": "6/20/2024",
+          "available_seats": 11,
+          "price": 1181
+        },
+        {
+          "id": 3,
+          "title": "Champions League",
+          "description": "A musical journey through classic hits.",
+          "image":"https://thumbs.dreamstime.com/b/poster-template-design-sport-event-background-abstract-dynamic-shapes-sports-competition-championship-207522607.jpg",
+          "category": "Sports",
+          "date": "6/20/2024",
+          "available_seats": 49,
+          "price": 1380
+        },
+        {
+          "id": 4,
+          "title": "Stand-Up Special",
+          "description": "Feel the rhythm with live bands.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 42,
+          "price": 1158
+        },
+        {
+          "id": 5,
+          "title": "Groove Fest",
+          "description": "Live musical night with diverse acts.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 27,
+          "price": 1341
+        },
+        {
+          "id": 6,
+          "title": "Rock Fest",
+          "description": "A memorable night of comedy and joy.",
+          "image":"https://thumbs.dreamstime.com/b/abstract-music-festival-advertising-poster-template-tunes-vector-art-abstract-music-festival-advertising-poster-template-118762261.jpg",
+          "category": "Music",
+          "date": "6/20/2024",
+          "available_seats": 39,
+          "price": 873
+        },
+        {
+          "id": 7,
+          "title": "Stand-Up Special",
+          "description": "Dance and groove to the music.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 10,
+          "price": 1336
+        },
+        {
+          "id": 8,
+          "title": "Concert Extravaganza",
+          "description": "An evening full of live music performances.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 43,
+          "price": 1053
+        },
+        {
+          "id": 9,
+          "title": "Dance Battle",
+          "description": "Dance and groove to the music.",
+          "image":"https://thumbs.dreamstime.com/b/abstract-music-festival-advertising-poster-template-tunes-vector-art-abstract-music-festival-advertising-poster-template-118762261.jpg",
+          "category": "Music",
+          "date": "6/20/2024",
+          "available_seats": 50,
+          "price": 1300
+        },
+        {
+          "id": 10,
+          "title": "Classic Hits",
+          "description": "Feel the rhythm with live bands.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 16,
+          "price": 977
+        },
+        {
+          "id": 11,
+          "title": "Classic Hits",
+          "description": "Top sports teams compete for the title.",
+          "image":"https://thumbs.dreamstime.com/b/poster-template-design-sport-event-background-abstract-dynamic-shapes-sports-competition-championship-207522607.jpg",
+          "category": "Sports",
+          "date": "6/20/2024",
+          "available_seats": 18,
+          "price": 1229
+        },
+        {
+          "id": 12,
+          "title": "Dance Battle",
+          "description": "Feel the rhythm with live bands.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 14,
+          "price": 1451
+        },
+        {
+          "id": 13,
+          "title": "Championship Showdown",
+          "description": "A thrilling sports showdown awaits!",
+          "image":"https://thumbs.dreamstime.com/b/poster-template-design-sport-event-background-abstract-dynamic-shapes-sports-competition-championship-207522607.jpg",
+          "category": "Sports",
+          "date": "6/20/2024",
+          "available_seats": 49,
+          "price": 1499
+        },
+        {
+          "id": 14,
+          "title": "Concert Extravaganza",
+          "description": "Music, laughter, and entertainment guaranteed.",
+          "image":"https://thumbs.dreamstime.com/b/abstract-music-festival-advertising-poster-template-tunes-vector-art-abstract-music-festival-advertising-poster-template-118762261.jpg",
+          "category": "Music",
+          "date": "6/20/2024",
+          "available_seats": 41,
+          "price": 1320
+        },
+        {
+          "id": 15,
+          "title": "Laugh Riot",
+          "description": "Top sports teams compete for the title.",
+          "image":"https://thumbs.dreamstime.com/b/abstract-music-festival-advertising-poster-template-tunes-vector-art-abstract-music-festival-advertising-poster-template-118762261.jpg",
+          "category": "Music",
+          "date": "6/20/2024",
+          "available_seats": 29,
+          "price": 1156
+        },
+        {
+          "id": 16,
+          "title": "All-Star Sports",
+          "description": "A thrilling sports showdown awaits!",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 33,
+          "price": 738
+        },
+        {
+          "id": 17,
+          "title": "Comedy Gala",
+          "description": "Feel the rhythm with live bands.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 20,
+          "price": 888
+        },
+        {
+          "id": 18,
+          "title": "Laugh Riot",
+          "description": "Dance and groove to the music.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 35,
+          "price": 740
+        },
+        {
+          "id": 19,
+          "title": "Funny Bone",
+          "description": "The best comedians, all in one show.",
+          "image":"https://thumbs.dreamstime.com/b/poster-template-design-sport-event-background-abstract-dynamic-shapes-sports-competition-championship-207522607.jpg",
+          "category": "Sports",
+          "date": "6/20/2024",
+          "available_seats": 22,
+          "price": 561
+        },
+        {
+          "id": 20,
+          "title": "Laugh Riot",
+          "description": "Music, laughter, and entertainment guaranteed.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 35,
+          "price": 1330
+        },
+        {
+          "id": 21,
+          "title": "Classic Hits",
+          "description": "Feel the rhythm with live bands.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 36,
+          "price": 816
+        },
+        {
+          "id": 22,
+          "title": "Champions League",
+          "description": "An exclusive concert you don\u2019t want to miss.",
+          "image":"https://thumbs.dreamstime.com/b/abstract-music-festival-advertising-poster-template-tunes-vector-art-abstract-music-festival-advertising-poster-template-118762261.jpg",
+          "category": "Music",
+          "date": "6/20/2024",
+          "available_seats": 42,
+          "price": 940
+        },
+        {
+          "id": 23,
+          "title": "Laugh Riot",
+          "description": "Experience the best music from top artists.",
+          "image":"https://thumbs.dreamstime.com/b/abstract-music-festival-advertising-poster-template-tunes-vector-art-abstract-music-festival-advertising-poster-template-118762261.jpg",
+          "category": "Music",
+          "date": "6/20/2024",
+          "available_seats": 24,
+          "price": 1059
+        },
+        {
+          "id": 24,
+          "title": "Summer Beats",
+          "description": "The best comedians, all in one show.",
+          "image":"https://thumbs.dreamstime.com/b/poster-template-design-sport-event-background-abstract-dynamic-shapes-sports-competition-championship-207522607.jpg",
+          "category": "Sports",
+          "date": "6/20/2024",
+          "available_seats": 21,
+          "price": 1276
+        },
+        {
+          "id": 25,
+          "title": "Ultimate Sports",
+          "description": "Music, laughter, and entertainment guaranteed.",
+          "image":"https://thumbs.dreamstime.com/b/abstract-music-festival-advertising-poster-template-tunes-vector-art-abstract-music-festival-advertising-poster-template-118762261.jpg",
+          "category": "Music",
+          "date": "6/20/2024",
+          "available_seats": 49,
+          "price": 1399
+        },
+        {
+          "id": 26,
+          "title": "Ultimate Sports",
+          "description": "Non-stop comedy for a night to remember.",
+          "image":"https://thumbs.dreamstime.com/b/poster-template-design-sport-event-background-abstract-dynamic-shapes-sports-competition-championship-207522607.jpg",
+          "category": "Sports",
+          "date": "6/20/2024",
+          "available_seats": 16,
+          "price": 1338
+        },
+        {
+          "id": 27,
+          "title": "Funny Bone",
+          "description": "Music, laughter, and entertainment guaranteed.",
+          "image":"https://thumbs.dreamstime.com/b/poster-template-design-sport-event-background-abstract-dynamic-shapes-sports-competition-championship-207522607.jpg",
+          "category": "Sports",
+          "date": "6/20/2024",
+          "available_seats": 21,
+          "price": 1300
+        },
+        {
+          "id": 28,
+          "title": "Comedy Gala",
+          "description": "Experience the best music from top artists.",
+          "image":"https://thumbs.dreamstime.com/b/poster-template-design-sport-event-background-abstract-dynamic-shapes-sports-competition-championship-207522607.jpg",
+          "category": "Sports",
+          "date": "6/20/2024",
+          "available_seats": 24,
+          "price": 1153
+        },
+        {
+          "id": 29,
+          "title": "Live Comedy Show",
+          "description": "The best comedians, all in one show.",
+          "image":"https://thumbs.dreamstime.com/b/poster-template-design-sport-event-background-abstract-dynamic-shapes-sports-competition-championship-207522607.jpg",
+          "category": "Sports",
+          "date": "6/20/2024",
+          "available_seats": 22,
+          "price": 1229
+        },
+        {
+          "id": 30,
+          "title": "Laugh Riot",
+          "description": "Comedy night filled with fun and laughter.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 35,
+          "price": 516
+        },
+        {
+          "id": 31,
+          "title": "Rhythm Night",
+          "description": "Get ready for an energetic sports event!",
+          "image":"https://thumbs.dreamstime.com/b/abstract-music-festival-advertising-poster-template-tunes-vector-art-abstract-music-festival-advertising-poster-template-118762261.jpg",
+          "category": "Music",
+          "date": "6/20/2024",
+          "available_seats": 40,
+          "price": 632
+        },
+        {
+          "id": 32,
+          "title": "Live Comedy Show",
+          "description": "Experience the best music from top artists.",
+          "image":"https://thumbs.dreamstime.com/b/poster-template-design-sport-event-background-abstract-dynamic-shapes-sports-competition-championship-207522607.jpg",
+          "category": "Sports",
+          "date": "6/20/2024",
+          "available_seats": 50,
+          "price": 1145
+        },
+        {
+          "id": 33,
+          "title": "Jazz Night",
+          "description": "An evening full of live music performances.",
+          "image":"https://thumbs.dreamstime.com/b/abstract-music-festival-advertising-poster-template-tunes-vector-art-abstract-music-festival-advertising-poster-template-118762261.jpg",
+          "category": "Music",
+          "date": "6/20/2024",
+          "available_seats": 37,
+          "price": 1169
+        },
+        {
+          "id": 34,
+          "title": "Funny Bone",
+          "description": "Comedy night filled with fun and laughter.",
+          "image":"https://thumbs.dreamstime.com/b/abstract-music-festival-advertising-poster-template-tunes-vector-art-abstract-music-festival-advertising-poster-template-118762261.jpg",
+          "category": "Music",
+          "date": "6/20/2024",
+          "available_seats": 24,
+          "price": 1083
+        },
+        {
+          "id": 35,
+          "title": "Funny Bone",
+          "description": "An evening full of live music performances.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 11,
+          "price": 981
+        },
+        {
+          "id": 36,
+          "title": "Funny Bone",
+          "description": "Join us for laughs with top comedians.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 41,
+          "price": 996
+        },
+        {
+          "id": 37,
+          "title": "Comedy Gala",
+          "description": "Music, laughter, and entertainment guaranteed.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 38,
+          "price": 553
+        },
+        {
+          "id": 38,
+          "title": "Melody Magic",
+          "description": "A memorable night of comedy and joy.",
+          "image":"https://thumbs.dreamstime.com/b/abstract-music-festival-advertising-poster-template-tunes-vector-art-abstract-music-festival-advertising-poster-template-118762261.jpg",
+          "category": "Music",
+          "date": "6/20/2024",
+          "available_seats": 33,
+          "price": 1456
+        },
+        {
+          "id": 39,
+          "title": "Jazz Night",
+          "description": "Sports fans, don\u2019t miss this epic game!",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 43,
+          "price": 811
+        },
+        {
+          "id": 40,
+          "title": "Live Comedy Show",
+          "description": "Live musical night with diverse acts.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 30,
+          "price": 584
+        },
+        {
+          "id": 41,
+          "title": "Laugh Riot",
+          "description": "Sports fans, don\u2019t miss this epic game!",
+          "image":"https://thumbs.dreamstime.com/b/abstract-music-festival-advertising-poster-template-tunes-vector-art-abstract-music-festival-advertising-poster-template-118762261.jpg",
+          "category": "Music",
+          "date": "6/20/2024",
+          "available_seats": 21,
+          "price": 1083
+        },
+        {
+          "id": 42,
+          "title": "Groove Fest",
+          "description": "Cheer for your favorite sports stars!",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 50,
+          "price": 1027
+        },
+        {
+          "id": 43,
+          "title": "Stand-Up Special",
+          "description": "Non-stop comedy for a night to remember.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 30,
+          "price": 532
+        },
+        {
+          "id": 44,
+          "title": "Classic Hits",
+          "description": "Top sports teams compete for the title.",
+          "image":"https://thumbs.dreamstime.com/b/abstract-music-festival-advertising-poster-template-tunes-vector-art-abstract-music-festival-advertising-poster-template-118762261.jpg",
+          "category": "Music",
+          "date": "6/20/2024",
+          "available_seats": 11,
+          "price": 772
+        },
+        {
+          "id": 45,
+          "title": "Champions League",
+          "description": "Music, laughter, and entertainment guaranteed.",
+          "image":"https://thumbs.dreamstime.com/b/abstract-music-festival-advertising-poster-template-tunes-vector-art-abstract-music-festival-advertising-poster-template-118762261.jpg",
+          "category": "Music",
+          "date": "6/20/2024",
+          "available_seats": 26,
+          "price": 935
+        },
+        {
+          "id": 46,
+          "title": "Comedy Circus",
+          "description": "A memorable night of comedy and joy.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 38,
+          "price": 830
+        },
+        {
+          "id": 47,
+          "title": "Ultimate Sports",
+          "description": "Experience the best music from top artists.",
+          "image":"https://thumbs.dreamstime.com/b/poster-template-design-sport-event-background-abstract-dynamic-shapes-sports-competition-championship-207522607.jpg",
+          "category": "Sports",
+          "date": "6/20/2024",
+          "available_seats": 18,
+          "price": 1132
+        },
+        {
+          "id": 48,
+          "title": "Rock Fest",
+          "description": "Dance and groove to the music.",
+          "image":"https://thumbs.dreamstime.com/b/poster-template-design-sport-event-background-abstract-dynamic-shapes-sports-competition-championship-207522607.jpg",
+          "category": "Sports",
+          "date": "6/20/2024",
+          "available_seats": 42,
+          "price": 822
+        },
+        {
+          "id": 49,
+          "title": "Live Comedy Show",
+          "description": "An exclusive concert you don\u2019t want to miss.",
+          "image":"https://t3.ftcdn.net/jpg/07/45/12/08/360_F_745120835_zVOfvHDjaLuut6R4FcSdLiGpdXqLXv3b.jpg",
+          "category": "Comedy",
+          "date": "6/20/2024",
+          "available_seats": 13,
+          "price": 589
+        },
+        {
+          "id": 50,
+          "title": "Stand-Up Special",
+          "description": "Non-stop comedy for a night to remember.",
+          "image":"https://thumbs.dreamstime.com/b/poster-template-design-sport-event-background-abstract-dynamic-shapes-sports-competition-championship-207522607.jpg",
+          "category": "Sports",
+          "date": "6/20/2024",
+          "available_seats": 31,
+          "price": 1243
+        }
+    ]
+}
